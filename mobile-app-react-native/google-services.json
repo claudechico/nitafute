@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541854872175",
+    "project_id": "nitafute-a9cd9",
+    "storage_bucket": "nitafute-a9cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541854872175:android:673bfa70e56eb99b3e139a",
+        "android_client_info": {
+          "package_name": "com.nitafute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gLlC1Lk7kwPq8nK7NhHZ1S77Dt6jSAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

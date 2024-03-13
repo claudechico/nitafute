@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "nitafute",
+    "slug": "nitafute",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.matemu.nitafute"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.matemu.nitafute"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62c417ef-fa7c-402e-93eb-6bea1f00d51a"
+      }
+    }
+  }
+}
